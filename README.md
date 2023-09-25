@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clarcky80
-- 👀 I’m interested in learning Java, Python, C++ an C#
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning JavaScript, CSS, HTML, React, Python, C++ an C#
+- 🌱 I’m currently learning JavaScript, CSS, HTML, React, Java
 - 💞️ I’m looking to collaborate on Java project and cloud projevt
 - 📫 How to reach me clarckgahou@gmail.com
 
